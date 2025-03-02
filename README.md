@@ -1,4 +1,3 @@
-# generador-musica-biomateriales
 # **Generador de música con biomateriales** 🎶🌿
 
 Sistema de generación musical basado en biomateriales y sensores ambientales, diseñado para crear música tranquila, melódica y armónica
