@@ -6,8 +6,8 @@ Sistema de generación musical basado en biomateriales y sensores ambientales, d
 
 ## **🚀 Características principales**
 ✅ **Sonidos generados**: Cuencos tibetanos, piano etéreo y sintetizador atmosférico.  
-✅ **Interacción con el entorno**: Modificado en tiempo real por **capacitancia, luz y temperatura**.
-✅ **SuperCollider & Python**: Comunicación mediante **OSC** para control preciso del sonido.  
+✅ **Interacción con el entorno**: Modificado en tiempo real por **capacitancia, luz y temperatura** .
+✅ **SuperCollider & Python**: Comunicación mediante **OSC** para control del sonido.  
 ✅ **Grabación en tiempo real**: Guarda la sesión en formato **WAV**.
 
 ---
